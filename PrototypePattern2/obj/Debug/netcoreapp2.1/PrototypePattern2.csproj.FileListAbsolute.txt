@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\bin\Debug\netcoreapp2.1\PrototypePattern2.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\bin\Debug\netcoreapp2.1\PrototypePattern2.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\bin\Debug\netcoreapp2.1\PrototypePattern2.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\bin\Debug\netcoreapp2.1\PrototypePattern2.dll
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\bin\Debug\netcoreapp2.1\PrototypePattern2.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\obj\Debug\netcoreapp2.1\PrototypePattern2.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\obj\Debug\netcoreapp2.1\PrototypePattern2.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\obj\Debug\netcoreapp2.1\PrototypePattern2.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\obj\Debug\netcoreapp2.1\PrototypePattern2.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\obj\Debug\netcoreapp2.1\PrototypePattern2.dll
+C:\Users\benjamin_fitzpatrick\source\repos\PrototypePattern2\PrototypePattern2\obj\Debug\netcoreapp2.1\PrototypePattern2.pdb
